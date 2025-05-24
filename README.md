@@ -37,9 +37,9 @@
 <br>
 
 ## Contacto:
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=gmail"/>](mailto:cheremycheco@gmail.com)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="instagram.svg"/>](https://www.instagram.com/cheremycheco/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/arcanus47)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=gmail"/>](mailto:maripilireyes997@gmail.com)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="instagram.svg"/>](https://www.instagram.com/dahiana_vizcaino_/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/Impaciente404)
 
 <div align="center">
   <picture>
