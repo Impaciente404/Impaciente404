@@ -39,8 +39,7 @@
 ## Contacto:
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=gmail"/>](mailto:cheremycheco@gmail.com)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="instagram.svg"/>](https://www.instagram.com/cheremycheco/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/arcanus47)
-  <p><a href="https://buymeacoffee.com/arcanus47"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="rahulmahesh62" /></a></p>
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/arcanus47
 
 <div align="center">
   <picture>
